@@ -1,5 +1,5 @@
-# 수어-ChatGPT
+# AI 교육 플랫폼 A+EDU
 
-> 수어 사진을 MLflow에서 관리하는 모델을 통해 예측한 후 GPT로 응답 문장을 생성한다
+> AI를 학생으로 활용하여 자기주도 학습하는 교육 서비스
 
-[goto Miniproject-7](https://github.com/Aivle4th-team3/Miniproject-7)
+[goto Big project](https://github.com/Aivle4th-team3/Miniproject-7)
